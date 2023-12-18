@@ -1,4 +1,5 @@
 # Aligned Diffusion Schrödinger Bridges
+Original implementation:
  **SBAlign** ([Somnath et al. 2023](https://openreview.net/forum?id=BkWFJN7_bQ))
 
 Implementation of a latent model with a Schrödinger Bridge.  
