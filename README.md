@@ -14,7 +14,7 @@ To install the conda environment and necessary packages, run the following comma
 The installation should work on Linux, Mac and M1/M2 Mac.
 
 ## Experiments
-MNIST DATASET
+MNIST DATASET  
 Rotate and image in 90° degrees
 
 ## License
