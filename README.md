@@ -1,7 +1,8 @@
 # Aligned Diffusion Schrödinger Bridges
  **SBAlign** ([Somnath et al. 2023](https://openreview.net/forum?id=BkWFJN7_bQ))
 
-Implementation of a latent model with a Schrödinger Bridge in toy/TEST is a demosntration of how to use the code
+Implementation of a latent model with a Schrödinger Bridge.
+In toy/TEST.ipynb is a demonstration of how to use the code and the experiments over MNIST dataset.
 ## Installation
 
 ### Environment
@@ -14,7 +15,8 @@ The installation should work on Linux, Mac and M1/M2 Mac.
 
 ## Experiments
 
-
+MNIST DATASET
+Rotate and image in 90° degrees
 
 ## License
 
