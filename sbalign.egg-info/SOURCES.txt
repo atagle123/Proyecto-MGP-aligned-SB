@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+sbalign.egg-info/PKG-INFO
+sbalign.egg-info/SOURCES.txt
+sbalign.egg-info/dependency_links.txt
+sbalign.egg-info/not-zip-safe
+sbalign.egg-info/top_level.txt
