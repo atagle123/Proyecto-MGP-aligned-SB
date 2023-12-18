@@ -1,10 +1,7 @@
 # Aligned Diffusion Schrödinger Bridges
+ **SBAlign** ([Somnath et al. 2023](https://openreview.net/forum?id=BkWFJN7_bQ))
 
-(Under Construction and Subject to Change)
-
-This is the official [PyTorch](https://pytorch.org/) implementation for **SBAlign** ([Somnath et al. 2023](https://openreview.net/forum?id=BkWFJN7_bQ))
-
-
+Implementation of a latent model with a Schrödinger Bridge in toy/TEST is a demosntration of how to use the code
 ## Installation
 
 ### Environment
